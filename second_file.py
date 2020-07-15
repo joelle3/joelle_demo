@@ -1,0 +1,1 @@
+print("why do coders use foo and bar as variable names?\n This is a serious question...")
